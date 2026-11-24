@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head> Adiciona cor de fundo e fonte ao index
+<head>
   <meta charset="UTF-8">
   <title>Meu primeiro site</title>
   <style>
