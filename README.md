@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Meu primeiro site</title>
- <style>{ 
-   body 
+ <style>
+   body {
     font-family: Arial, sans-serif; 
     background: #f4f1ff; 
     color: #222; 
