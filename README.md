@@ -8,6 +8,7 @@
 h1 { color: #4b3fc4; }
   </style>
 </head>
+  <p><a href="sobre.html">Sobre mim</a></p>
 <body>
   <h1>Olá, eu sou Wellington Bueno Monteiro</h1>
 <p>Estudo Design Gráfico e este é meu primeiro site no GitHub.</p>
