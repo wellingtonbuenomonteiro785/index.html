@@ -11,7 +11,7 @@
     max-width: 600px; 
     margin: 40px auto; }
   h1 { 
-    color: #4b3fc4; }
+    color: #4b3fc4; }>
 </style>
 </head>
   <h1>Olá, eu sou Wellington Bueno Monteiro </h1>
